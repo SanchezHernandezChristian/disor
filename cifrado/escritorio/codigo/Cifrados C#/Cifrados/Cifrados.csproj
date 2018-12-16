@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Cesar.cs" />
-    <Compile Include="Clases\Encriptador.cs" />
     <Compile Include="Clases\Gruposinverso.cs" />
     <Compile Include="Clases\ICifrados.cs" />
     <Compile Include="Clases\Inverso.cs" />
