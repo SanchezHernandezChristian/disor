@@ -1,0 +1,69 @@
+body{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.menu{
+    display: block;
+}
+.cesar{
+    float: left;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.inverso{
+    float: left;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+.inversogrupo{
+    float: left;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+
+#desplazamiento{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 25px;
+    margin-left: 0px;
+}
+#numerogrupo{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 25px;
+    margin-left: 0px;
+}
+#textoplano{
+    margin-top: 30px;
+    text-align: left;
+    width: 200px;
+    height: 46px;
+    
+}
+#textocifrado{
+    margin-top: 10px;
+    width: 200px;
+    height: 46px;
+   
+}
+#textoalreves{
+    margin-top: 20px;
+    width: 200px;
+    height: 46px;
+   
+}
+#textoalrevesgrupo{
+    margin-top: 20px;
+    width: 200px;
+    height: 46px;
+   
+}

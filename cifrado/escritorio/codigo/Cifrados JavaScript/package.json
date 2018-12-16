@@ -1,0 +1,11 @@
+{
+  "name": "cifradocesar",
+  "version": "1.0.0",
+  "description": "aplicacion de escritorio de cifrado cesar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "christian sanchez",
+  "license": "ISC"
+}

@@ -1,0 +1,55 @@
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <title>Cifrados</title>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" type="text/css" href="css/main.css" />
+      <script src="js/cifrarcesar.js"></script>
+      <script src="js/descifrarcesar.js"></script>
+      <script src="js/cifradoinverso.js"></script>
+      <script src="js/cifrarinversogrupo.js"></script>
+      <script src="js/encriptar.js"></script>
+      <script src="js/desencriptar.js"></script>
+    
+            
+  </head>
+  <body>
+      <h1>Cifrados</h1>
+      <div  class="menu">
+            <div>
+                    <label>Texto plano:</label>
+                    <textarea id="textoplano" onkeyup="encriptar()"></textarea>
+                  </div>
+
+                <div class="cesar">
+                  <fieldset>
+                      <legend>Cifrado Cesar</legend>
+                        <label>Desplazamiento:</label>
+                        <input type="number"  id="desplazamiento" onkeyup="encriptar()"/>
+                        <br>
+        
+                        <label>Texto Cifrado:</label>
+                        <textarea id="textocifrado" style="color:black;" disabled></textarea>
+                    </fieldset>
+                </div>
+
+                <div class="inverso">
+                    <fieldset>
+                        <legend>Cifrado Inverso</legend>
+                            <label>Texto Cifrado:</label>
+                             <textarea id="textoalreves" style="color:black;" disabled></textarea>
+                     </fieldset>
+                </div>
+                <div class="inversogrupo">
+                    <fieldset>
+                        <legend>Cifrado Inverso</legend>
+                            <label>Tamaño de grupo:</label>
+                            <input type="number"  id="numerogrupo" onkeyup="encriptar()"/>
+                            <br>
+                            <label>Texto Cifrado:</label>
+                             <textarea id="textoalrevesgrupo" style="color:black;" disabled></textarea>
+                     </fieldset>
+                </div>
+  </body>
+  </html>

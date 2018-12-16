@@ -1,0 +1,9 @@
+/home/fernando/Projects/poo_web/poo_web/bin/poo_web.dll
+/home/fernando/Projects/poo_web/poo_web/bin/poo_web.pdb
+/home/fernando/Projects/poo_web/poo_web/obj/Debug/poo_web.csprojAssemblyReference.cache
+/home/fernando/Projects/poo_web/poo_web/obj/Debug/poo_web.csproj.CoreCompileInputs.cache
+/home/fernando/Projects/poo_web/poo_web/obj/Debug/poo_web.dll
+/home/fernando/Projects/poo_web/poo_web/obj/Debug/poo_web.pdb
+C:\Users\Christian\Downloads\programas\programas\poo_web C#\poo_web\obj\Debug\poo_web.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Downloads\programas\programas\poo_web C#\poo_web\obj\Debug\poo_web.dll
+C:\Users\Christian\Downloads\programas\programas\poo_web C#\poo_web\obj\Debug\poo_web.pdb
